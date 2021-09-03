@@ -28,13 +28,13 @@ pip install multiprocessing
 
 # How to run
 ```
-git clone https://github.com/affand20/jatimnet-scraper.git
+git clone https://github.com/affand20/jatimnet-news-scraper.git
 cd jatimnet-scraper/scraper
 python main.py
 ```
 
 ### Examples
-For the full sample code please click [here]('https://github.com/affand20/jatimnet-scraper/scraper/examples/')
+For the full sample code please click [here]('https://github.com/affand20/jatimnet-news-scraper.git/scraper/examples/')
 
 <br>
 
